@@ -23,6 +23,6 @@ determines whether the point the user wishes to calculate falls in the two-phase
 MainGUI: come up with the Interfaces of the calculator using TKinter.
 
 1. Interone()
- 
+This interface is for Fe-C Diagram Calculator
 
 2. Intertwo()
