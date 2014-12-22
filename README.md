@@ -9,7 +9,7 @@ There are two models in this program. The first is the Fe-C Diagram Calculator w
 
 ==================
 
-Realization:
+Classes and methods:
 To realize these functions, the program introduced two classes: CPCal and MainGUI.
 
 CPCal: This class is the main calculating class of the program. There are two methods: run() and judge()
