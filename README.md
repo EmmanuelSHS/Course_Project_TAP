@@ -28,4 +28,4 @@ This interface is for Fe-C Diagram Calculator.
 2. Intertwo()
 This interace is for customized calculator.
 
-main.py: Main function for realize the calculator.
+main.py: Main function for realize the calculator by methods from the classes.
